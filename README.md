@@ -1,1 +1,2 @@
-# Disease-prediction-using-Machine-Learning
+# Disease-prediction:Diabetes
+# Machine Learning with Python Project
